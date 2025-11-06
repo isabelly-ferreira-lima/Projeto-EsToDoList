@@ -49,3 +49,6 @@ Para rodar este projeto localmente, siga os passos abaixo:
     * Abra-o diretamente no seu navegador de preferência.
 
 As tarefas serão salvas automaticamente no `localStorage` do seu navegador.
+
+## 🧭 NAVEGE NO ESTODOLIST
+https://es-to-do-list-peach.vercel.app
